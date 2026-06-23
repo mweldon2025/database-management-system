@@ -94,7 +94,7 @@ JOIN Courses c
 
 ## Duration
 
-May 2024 – July 2024
+Originally developed as an academic project in Summer 2024 and enhanced using SQLite and SQL for portfolio purposes.
 
 ## Author
 
